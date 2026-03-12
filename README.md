@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sylunae & Tierworld（https://sylunae.vercel.app/）<br><br>🌱 I’m currently learning NextJS、云、Supabase、AI Integration<br><br>👨‍💻 All of my projects are available at [https://vite-project-two-wheat.vercel.app/]（https://vite-project-two-wheat.vercel.app/）<br><br>📝 I regularly write articles on [https://www.pandorava7.com/blog]（https://www.pandorava7.com/blog）<br><br>📫 How to reach me: pandora.va7@gmail.com<br><br>📄 Know about my experiences [https://vite-project-two-wheat.vercel.app/resumes/Resume_English.pdf]（https://vite-project-two-wheat.vercel.app/resumes/Resume_English.pdf）<br><br>⚡ Fun fact I also passionate in game development, digital creator
+🔭 I’m currently working on Sylunae & Tierworldhttps://sylunae.vercel.app<br><br>🌱 I’m currently learning NextJS、云、Supabase、AI Integration<br><br>👨‍💻 All of my projects are available at https://vite-project-two-wheat.vercel.app<br><br>📝 I regularly write articles on https://www.pandorava7.com/blog<br><br>📫 How to reach me: pandora.va7@gmail.com<br><br>📄 Know about my experiences https://vite-project-two-wheat.vercel.app/resumes/Resume_English.pdf<br><br>⚡ Fun fact I also passionate in game development, digital creator
 
 
 ## 🌐 Socials:
