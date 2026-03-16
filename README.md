@@ -13,5 +13,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-  <img src="./images/pandora.png" width="400" alt="Illustration">
+  <img src="./pandora.png" width="400" alt="Illustration">
 </div>
