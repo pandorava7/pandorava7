@@ -1,4 +1,7 @@
-<img src="./pandora.png" align="right" width="200" alt="Illustration">
+<br>
+<br>
+<br>
+<img src="./pandora.png" align="right" width="200" margin alt="Illustration">
 
 # 💫 About Me:
 🔭 I’m currently working on **Sylunae** & **Tierworld** [sylunae.vercel.app](https://sylunae.vercel.app)
