@@ -1,7 +1,5 @@
-<br>
-<br>
-<br>
-<img src="./pandora.png" align="right" width="200" margin alt="Illustration">
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEwMCI+PHJlY3Qgd2lkdGg9IjEiIGhlaWdodD0iMTAwIiBmaWxsPSJ0cmFuc3BhcmVudCIvPjwvc3ZnPg==" height="60" width="1" align="right">
+<img src="./pandora.png" align="right" width="200" alt="Illustration">
 
 # 💫 About Me:
 🔭 I’m currently working on **Sylunae** & **Tierworld** [sylunae.vercel.app](https://sylunae.vercel.app)
