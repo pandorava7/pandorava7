@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./pandora.png" width="200" alt="Illustration">
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Sylunae & Tierworld https://sylunae.vercel.app<br><br>🌱 I’m currently learning NextJS、Cloud Services、Supabase、AI Integration<br><br>👨‍💻 All of my projects are available at https://vite-project-two-wheat.vercel.app<br><br>📝 I regularly write articles on https://www.pandorava7.com/blog<br><br>📫 How to reach me: pandora.va7@gmail.com<br><br>📄 Know about my experiences https://vite-project-two-wheat.vercel.app/resumes/Resume_English.pdf<br><br>⚡ Fun fact I also passionate in game development, digital creator
 
@@ -12,6 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=pandorava7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  <img src="./pandora.png" width="400" alt="Illustration">
-</div>
+
