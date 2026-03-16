@@ -12,3 +12,6 @@
 [![](https://visitcount.itsvg.in/api?id=pandorava7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="./images/pandora.png" width="400" alt="Illustration">
+</div>
