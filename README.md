@@ -14,7 +14,7 @@
 
 📄 Know about my experiences [Resume_English.pdf](https://vite-project-two-wheat.vercel.app/resumes/Resume_English.pdf)
 
-⚡ Fun fact: I am also passionate about **Game Development**
+⚡ Fun fact: I am also passionate about **Game Development** and **Digital Creator**
 
 <br clear="right"/>
 
