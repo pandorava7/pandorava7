@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on **Sylunae** & **Tierworld** https://sylunae.vercel.app | https://tierworld.vercel.app
+🔭 I’m currently working on **Sylunae** & **Tierworld** https://sylunae.vercel.app | https://tierworld-v2.vercel.app
 
 🌱 I’m currently learning **Next.js**、**Cloud Services**、**Supabase**、**AI Integration**
 
