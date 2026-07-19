@@ -1,20 +1,29 @@
-<img src="./pandora-edited.png" align="right" width="200" alt="Illustration">
+<img src="./pandora-edited.png" align="right" width="200" alt="Pandora Illustration">
 
-# 💫 About Me:
+💫 About Me | 关于我
 
-🔭 I’m currently working on **Sylunae** & **Tierworld** https://sylunae.vercel.app | https://tierworld-v2.vercel.app
+🔭 I’m currently working on Sylunae and Tierworld
+🔭 我目前正在开发 Sylunae 和 Tierworld
 
-🌱 I’m currently learning **Next.js**、**Cloud Services**、**Supabase**、**AI Integration**
+https://sylunae.vercel.app | https://tierworld-v2.vercel.app
 
-👨‍💻 All of my projects are available at [vite-project-two-wheat.vercel.app](https://vite-project-two-wheat.vercel.app)
+🌱 I’m currently learning Next.js, Cloud Services, Supabase, and AI Integration
+🌱 我目前正在学习 Next.js、云服务、Supabase 和 AI 集成
 
-📝 I regularly write articles on [pandorava7.com/blog](https://www.pandorava7.com/blog)
+👨‍💻 All of my projects are available on my Portfolio Website
+👨‍💻 你可以在我的个人作品集网站查看所有项目
 
-📫 How to reach me: **pandora.va7@gmail.com**
+📝 I regularly publish articles on pandorava7.com/blog
+📝 我会定期在 pandorava7.com/blog 发布文章
 
-📄 Know about my experiences [Resume_English.pdf](https://vite-project-two-wheat.vercel.app/resumes/Resume_English.pdf)
+📫 Contact me at pandora.va7@gmail.com
+📫 联系方式：pandora.va7@gmail.com
 
-⚡ Fun fact: I am also passionate about **Game Development** and **Digital Creator**
+📄 Learn more about my experience through my English Resume
+📄 你可以通过我的英文简历了解更多经历
+
+⚡ Fun fact: I’m also passionate about Game Development and Digital Content Creation
+⚡ 另外，我也热衷于 游戏开发 和 数字内容创作
 
 <br clear="right"/>
 
