@@ -7,11 +7,13 @@
 
 🌱 目前正在学习 **Next.js**、**云服务**、**Supabase** 和 **AI 集成**
 
-👨‍💻 你可以在我的[个人作品集网站](https://vite-project-two-wheat.vercel.app)查看所有项目
+👨‍💻 你可以在我的[个人作品集网站](https://vite-project-two-wheat.vercel.app)和[项目集](https://sylunae.vercel.app/projects)查看所有项目
 
-📝 我会定期在[个人博客](https://www.pandorava7.com/blog)发布文章
+📝 闲着没事会在[个人博客](https://www.pandorava7.com/blog)发布文章
 
-⚡ 我也热衷于 **游戏开发** 和 **数字内容创作**
+⚡ 爱好是 **游戏/工具开发** 和 **数字内容创作**
+
+右边这位是我最喜欢的角色，她是Re0中的反派虚饰魔女潘多拉 ->
 
 <br clear="right"/>
 
