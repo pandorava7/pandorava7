@@ -5,19 +5,11 @@
 🔭 目前正在开发 **Sylunae** 和 **Tierworld**
 [🌙 Sylunae](https://sylunae.vercel.app) · [🌐 Tierworld](https://tierworld-v2.vercel.app)
 
-<br>
-
 🌱 目前正在学习 **Next.js**、**云服务**、**Supabase** 和 **AI 集成**
-
-<br>
 
 👨‍💻 你可以在我的[个人作品集网站](https://vite-project-two-wheat.vercel.app)查看所有项目
 
-<br>
-
 📝 我会定期在[个人博客](https://www.pandorava7.com/blog)发布文章
-
-<br>
 
 ⚡ 我也热衷于 **游戏开发** 和 **数字内容创作**
 
