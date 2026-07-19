@@ -5,7 +5,7 @@
 🔭 目前正在开发 **Sylunae** 和 **Tierworld**
 [🌙 Sylunae](https://sylunae.vercel.app) · [🌐 Tierworld](https://tierworld-v2.vercel.app) 其中Tierworld是目前的主要产品
 
-🌱 目前正在学习 **Next.js**、**云服务**、**Supabase** 和 **AI 集成**
+🌱 目前正在学习 **Next.js**、**云服务**、**产品设计** 和 **AI 集成**
 
 👨‍💻 你可以在我的[个人作品集网站](https://vite-project-two-wheat.vercel.app)和[项目集](https://sylunae.vercel.app/projects)查看所有项目
 
