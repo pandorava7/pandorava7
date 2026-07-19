@@ -3,7 +3,7 @@
 # 💫 About Me | 关于我
 
 🔭 目前正在开发 **Sylunae** 和 **Tierworld**
-[🌙 Sylunae](https://sylunae.vercel.app) · [🌐 Tierworld](https://tierworld-v2.vercel.app)
+[🌙 Sylunae](https://sylunae.vercel.app) · [🌐 Tierworld](https://tierworld-v2.vercel.app) 其中Tierworld是目前的主要产品
 
 🌱 目前正在学习 **Next.js**、**云服务**、**Supabase** 和 **AI 集成**
 
