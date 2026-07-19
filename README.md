@@ -1,29 +1,40 @@
 <img src="./pandora-edited.png" align="right" width="200" alt="Pandora Illustration">
 
-💫 About Me | 关于我
+# 💫 About Me | 关于我
 
-🔭 I’m currently working on Sylunae and Tierworld
-🔭 我目前正在开发 Sylunae 和 Tierworld
+🔭 Currently working on **Sylunae** and **Tierworld**
+目前正在开发 **Sylunae** 和 **Tierworld**
+[🌙 Sylunae](https://sylunae.vercel.app) · [🌐 Tierworld](https://tierworld-v2.vercel.app)
 
-https://sylunae.vercel.app | https://tierworld-v2.vercel.app
+<br>
 
-🌱 I’m currently learning Next.js, Cloud Services, Supabase, and AI Integration
-🌱 我目前正在学习 Next.js、云服务、Supabase 和 AI 集成
+🌱 Currently learning **Next.js**, **Cloud Services**, **Supabase**, and **AI Integration**
+目前正在学习 **Next.js**、**云服务**、**Supabase** 和 **AI 集成**
 
-👨‍💻 All of my projects are available on my Portfolio Website
-👨‍💻 你可以在我的个人作品集网站查看所有项目
+<br>
 
-📝 I regularly publish articles on pandorava7.com/blog
-📝 我会定期在 pandorava7.com/blog 发布文章
+👨‍💻 Explore all of my projects on my [Portfolio Website](https://vite-project-two-wheat.vercel.app)
+你可以在我的[个人作品集网站](https://vite-project-two-wheat.vercel.app)查看所有项目
 
-📫 Contact me at pandora.va7@gmail.com
-📫 联系方式：pandora.va7@gmail.com
+<br>
 
-📄 Learn more about my experience through my English Resume
-📄 你可以通过我的英文简历了解更多经历
+📝 I regularly publish articles on my [Personal Blog](https://www.pandorava7.com/blog)
+我会定期在[个人博客](https://www.pandorava7.com/blog)发布文章
 
-⚡ Fun fact: I’m also passionate about Game Development and Digital Content Creation
-⚡ 另外，我也热衷于 游戏开发 和 数字内容创作
+<br>
+
+📫 Reach me at **[pandora.va7@gmail.com](mailto:pandora.va7@gmail.com)**
+联系邮箱：**[pandora.va7@gmail.com](mailto:pandora.va7@gmail.com)**
+
+<br>
+
+📄 Learn more about my experience through my [English Resume](https://vite-project-two-wheat.vercel.app/resumes/Resume_English.pdf)
+通过我的[英文简历](https://vite-project-two-wheat.vercel.app/resumes/Resume_English.pdf)了解更多个人经历
+
+<br>
+
+⚡ I’m also passionate about **Game Development** and **Digital Content Creation**
+我也热衷于 **游戏开发** 和 **数字内容创作**
 
 <br clear="right"/>
 
