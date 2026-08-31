@@ -2,9 +2,7 @@
 <!--        HERO BANNER        -->
 <!-- ========================= -->
 
-<p align="center">
-  <img src="banner-clip.png" width="100%" alt="Pandora Banner" />
-</p>
+
 
 <h1 align="center">
   Hi, I'm Pandora
@@ -12,6 +10,10 @@
 
 <p align="center">
   Full-Stack Developer · Game Developer · Indie Builder
+</p>
+
+<p align="center">
+  <img src="banner-clip.png" width="100%" alt="Pandora Banner" />
 </p>
 
 <p align="center">
