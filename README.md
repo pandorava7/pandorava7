@@ -188,6 +188,7 @@
 [![Website](https://img.shields.io/badge/Website-Sylunae-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sylunae.vercel.app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://sylunae.vercel.app/portfolio)
 [![Blog](https://img.shields.io/badge/Blog-Sylunae_Journal-111111?style=for-the-badge&logo=astro&logoColor=white)](https://sylunae.vercel.app/blog)
+<br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loh-qi-sheng/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sylunae-7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sylunae/)
