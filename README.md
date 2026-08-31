@@ -5,10 +5,6 @@
 
 <div align="center">
 
-<img src="banner-clip.png" width="100%" alt="Sylunae Banner" />
-
-<br />
-
 # 丝月 Sylunae
 
 ### 数字世界构建者 · 全栈开发 · 游戏开发 · 独立创作
@@ -21,6 +17,10 @@
 **但仍可以选择自己真正喜欢的方向，**
 **自由生长，尽情绽放，**
 **不必等谁注视，也无需向谁证明。**
+
+<br />
+
+<img src="banner-clip.png" width="100%" alt="Sylunae Banner" />
 
 <br />
 
