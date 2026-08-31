@@ -3,8 +3,6 @@
   GitHub Profile README
 ========================= -->
 
-<img src="./pandora-edited.png" align="right" width="200" alt="Pandora Illustration">
-
 <div align="center">
 
 #  ⋆｡ﾟ☾ 丝月 Sylunae ☽｡ﾟ⋆
@@ -81,6 +79,8 @@
 ---
 
 ## ✦ Tech Stack
+
+<img src="./pandora-edited.png" align="right" width="200" alt="Pandora Illustration">
 
 ### ◇ Languages
 
