@@ -200,7 +200,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=pandorava7&style=for-the-badge)
+![](https://count.getloli.com/get/@pandorava7)
 
 **把有意思的想法变成现实**
 
