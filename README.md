@@ -23,14 +23,14 @@
 
 ## ✦ 关于我
 
-**全栈开发 · 游戏开发 · 独立创作**
+**全栈应用开发 · AI · 游戏开发 · 独立创作**
 
 主要进行 Web 应用、独立产品、游戏与各类有趣项目的开发。
 
-[个人网站](https://你的网址) ·
-[博客](https://你的博客) ·
-[Portfolio](https://你的Portfolio) ·
-[委托 / Services](https://你的委托页)
+[个人网站](https://sylunae.vercel.app) ·
+[博客](https://sylunae-blog.vercel.app) ·
+[Portfolio](https://sylunae.vercel.app/portfolio) ·
+[委托 / Services](https://sylunae.vercel.app/commissions)
 
 ---
 
