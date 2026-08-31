@@ -27,10 +27,49 @@
 
 主要进行 Web 应用、独立产品、游戏与各类有趣项目的开发。
 
-[个人网站](https://sylunae.vercel.app) ·
-[博客](https://sylunae-blog.vercel.app) ·
-[Portfolio](https://sylunae.vercel.app/portfolio) ·
-[委托 / Services](https://sylunae.vercel.app/commissions)
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://sylunae.vercel.app">
+  <img src="./assets/links/sylunae.png" width="100%" alt="Sylunae Personal Website">
+</a>
+</td>
+
+<td width="50%" align="center">
+<a href="https://sylunae.vercel.app/portfolio">
+  <img src="./assets/links/portfolio.png" width="100%" alt="Portfolio">
+</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<a href="https://sylunae-blog.vercel.app">
+  <img src="./assets/links/blog.png" width="100%" alt="Sylunae Journal">
+</a>
+</td>
+
+<td width="50%" align="center">
+<a href="https://sylunae.vercel.app/commissions">
+  <img src="./assets/links/commissions.png" width="100%" alt="Tierworld">
+</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<a href="https://你的youtube">
+  <img src="./assets/links/youtube.png" width="100%" alt="YouTube">
+</a>
+</td>
+
+<td width="50%" align="center">
+<a href="https://你的linkedin">
+  <img src="./assets/links/linkedin.png" width="100%" alt="LinkedIn">
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
