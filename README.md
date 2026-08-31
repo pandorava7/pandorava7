@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 丝月 Sylunae
+#  █ █  丝月 Sylunae  █ █
 
 ### 用技术构建自己的数字世界
 
