@@ -132,10 +132,7 @@
 
 高级 Tier List 创建、整理、评论与分享工具。
 
-**Tech**  
-`Next.js` `TypeScript` `Supabase` `Cloudflare R2` `Google Drive` `Stripe`
-
-[Repository](你的仓库链接) · [Website](https://tierworld.app)
+[Website](https://tierworld.app)
 
 </td>
 
@@ -149,10 +146,7 @@
 
 原创 2D 平台动作 / Roguelike 游戏项目。
 
-**Tech**  
-`Unity` `C#` `Game Design`
-
-[Repository](你的仓库链接) · [More](你的项目页)
+[介绍](https://sylunae.vercel.app/portfolio/projects/dreamcho)
 
 </td>
 </tr>
