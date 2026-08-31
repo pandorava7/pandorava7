@@ -27,7 +27,12 @@
 
 主要进行 Web 应用、独立产品、游戏与各类有趣项目的开发。
 
-<table>
+[个人网站](https://你的网址) ·
+[博客](https://你的博客) ·
+[Portfolio](https://你的Portfolio) ·
+[委托 / Services](https://你的委托页)
+
+<!-- <table>
 <tr>
 <td width="50%" align="center">
 <a href="https://sylunae.vercel.app">
@@ -69,7 +74,7 @@
 </a>
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
