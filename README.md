@@ -124,12 +124,15 @@
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://tierworld.app">
+  <img src="./assets/projects/tierworld-banner.png" width="100%" alt="Tierworld Banner" />
+</a>
+
 ### Tierworld
 
 高级 Tier List 创建、整理、评论与分享工具。
 
-**Tech**
-
+**Tech**  
 `Next.js` `TypeScript` `Supabase` `Cloudflare R2` `Google Drive` `Stripe`
 
 [Repository](你的仓库链接) · [Website](https://tierworld.app)
@@ -138,12 +141,15 @@
 
 <td width="50%" valign="top">
 
+<a href="你的项目页或仓库链接">
+  <img src="./assets/projects/dreamcho-banner.png" width="100%" alt="DreamCho Banner" />
+</a>
+
 ### DreamCho 梦迴
 
 原创 2D 平台动作 / Roguelike 游戏项目。
 
-**Tech**
-
+**Tech**  
 `Unity` `C#` `Game Design`
 
 [Repository](你的仓库链接) · [More](你的项目页)
@@ -151,7 +157,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## ✦ GitHub Stats
