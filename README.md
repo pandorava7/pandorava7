@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="banner-clip.png" width="100%" alt="Pandora Banner" />
-</p>
-
-<p align="center">
   <a href="https://github.com/你的用户名">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
@@ -24,6 +20,11 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge" />
   </a>
 </p>
+
+<p align="center">
+  <img src="banner-clip.png" width="100%" alt="Pandora Banner" />
+</p>
+
 
 ---
 
