@@ -185,15 +185,13 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Sylunae-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](你的个人网站)
-
-[![Blog](https://img.shields.io/badge/Blog-Sylunae_Journal-111111?style=for-the-badge&logo=astro&logoColor=white)](你的博客)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-111111?style=for-the-badge&logo=vercel&logoColor=white)](你的Portfolio)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](你的YouTube)
+[![Website](https://img.shields.io/badge/Website-Sylunae-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sylunae.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://sylunae.vercel.app/portfolio)
+[![Blog](https://img.shields.io/badge/Blog-Sylunae_Journal-111111?style=for-the-badge&logo=astro&logoColor=white)](https://sylunae.vercel.app/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loh-qi-sheng/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sylunae-7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sylunae/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sylunae)
 
 </div>
 
