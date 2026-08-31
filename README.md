@@ -125,7 +125,7 @@
 <td width="50%" valign="top">
 
 <a href="https://tierworld.app">
-  <img src="./assets/projects/tierworld-banner.png" width="100%" alt="Tierworld Banner" />
+  <img src="./assets/projects/tierworld-banner-v2.png" width="100%" alt="Tierworld Banner" />
 </a>
 
 ### Tierworld
@@ -142,7 +142,7 @@
 <td width="50%" valign="top">
 
 <a href="你的项目页或仓库链接">
-  <img src="./assets/projects/dreamcho-banner.png" width="100%" alt="DreamCho Banner" />
+  <img src="./assets/projects/dreamcho-banner-v2.png" width="100%" alt="DreamCho Banner" />
 </a>
 
 ### DreamCho 梦迴
