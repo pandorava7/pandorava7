@@ -23,65 +23,78 @@
 
 ## ✦ 关于我
 
-你好，这里是 **丝月 Sylunae**。
+**全栈开发 · 游戏开发 · 独立创作**
 
-我是一名开发者，也是一名正在寻找自己创作方式的人。
+主要进行 Web 应用、独立产品、游戏与各类有趣项目的开发。
 
-我喜欢把脑海里的想法真正做出来——
-可能是一个网站、一款游戏、一个工具、一套自动化系统，
-也可能只是某个突然觉得「如果这个东西存在就好了」的念头。
-
-相比单纯完成需求，我更喜欢从：
-
-**想法 → 设计 → 开发 → 发布 → 持续完善**
-
-完整地走过一个作品的生命周期。
-
-目前主要探索：
-
-* Web / Full Stack Development
-* 独立产品开发
-* 游戏开发
-* AI 辅助开发与自动化
-* UI / UX 与交互设计
-* 个人创作与数字内容
-* 独立开发者与一人团队式工作流
+[个人网站](https://你的网址) ·
+[博客](https://你的博客) ·
+[Portfolio](https://你的Portfolio) ·
+[委托 / Services](https://你的委托页)
 
 ---
 
-## ✦ 喜欢的角色
+## ✦ Tech Stack
 
-<table>
-<tr>
-<td width="38%" align="center">
+### ◇ Languages
 
-<img src="./assets/favorite-character.png" width="100%" alt="Favorite Character" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</td>
+### ◇ Web & Frontend
 
-<td width="62%" valign="middle">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 「这里放角色名」
+### ◇ Backend & Database
 
-这里可以写一小段你为什么喜欢这个角色。
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-不需要写得像百科介绍，更适合作为属于你的私人注释，例如：
+### ◇ Cloud & DevOps
 
-> 我喜欢的从来不只是一个角色的设定，
-> 而是她看待世界的方式、面对一切时的从容，
-> 以及某些让我想成为的东西。
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-也可以在这里放：
+### ◇ Game Development
 
-`作品名` · `角色名` · `一句代表性关键词`
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-</td>
-</tr>
-</table>
+### ◇ Design & Creative
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge&logo=ffmpeg&logoColor=5CB85C)
+
+### ◇ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## ✦ 正在创造的世界
+## ✦ Featured Projects
 
 <table>
 <tr>
@@ -89,12 +102,13 @@
 
 ### Tierworld
 
-一个围绕 **收集、评论、整理与排行** 构建的 Tier List 平台。
+高级 Tier List 创建、整理、评论与分享工具。
 
-不仅仅把东西拖进 S、A、B、C，
-而是希望让每一次排行都能够保存自己的观点。
+**Tech**
 
-`Next.js` `Supabase` `Cloudflare R2` `Google Drive` `Stripe`
+`Next.js` `TypeScript` `Supabase` `Cloudflare R2` `Google Drive` `Stripe`
+
+[Repository](你的仓库链接) · [Website](https://tierworld.app)
 
 </td>
 
@@ -102,157 +116,68 @@
 
 ### DreamCho 梦迴
 
-正在构思与开发中的原创游戏项目。
+原创 2D 平台动作 / Roguelike 游戏项目。
 
-围绕属于自己的世界观、角色、战斗与冒险展开，
-也是我长期游戏开发方向的重要作品。
+**Tech**
 
-`Game Development` `Original IP` `World Building`
+`Unity` `C#` `Game Design`
+
+[Repository](你的仓库链接) · [More](你的项目页)
 
 </td>
 </tr>
 </table>
 
-<br />
+---
+
+## ✦ GitHub Stats
 
 <div align="center">
 
-<img src="./assets/projects-banner.png" width="100%" alt="Projects Banner" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pandorava7&theme=dark&hide_border=true&show_icons=true" />
+
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pandorava7&theme=dark&hide_border=true&layout=compact" />
 
 </div>
 
----
+<div align="center">
 
-## ✦ 我的技术栈
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandorava7&theme=dark&hide_border=true" />
 
-### 开发
-
-`TypeScript`
-`JavaScript`
-`HTML`
-`CSS`
-`React`
-`Next.js`
-`Astro`
-`Node.js`
-`Python`
-`C#`
-`Unity`
-
-### 数据与后端
-
-`Supabase`
-`PostgreSQL`
-`REST API`
-`OAuth`
-`Cloudflare R2`
-`Google APIs`
-
-### 工具与工程
-
-`Git`
-`GitHub`
-`Vercel`
-`Docker`
-`Figma`
-`VS Code`
-`AI Assisted Development`
-
----
-
-## ✦ GitHub 数据
+</div>
 
 <!--
-这里专门留给未来的动态 SVG。
+未来可以把上面的第三方 Stats 替换成你自己的动态 SVG。
 
-例如未来你可以放：
-- 自定义 GitHub Stats SVG
-- Contribution 数据
-- Languages
-- Commit / PR / Issue
-- 当前项目状态
-- 自己设计的 RPG / 游戏化数据面板
+例如：
 
-建议未来直接替换下面两个 placeholder。
+<img src="./assets/github-stats.svg" width="100%" />
 -->
 
+---
+
+## ✦ Links
+
 <div align="center">
 
-<img src="./assets/stats-placeholder.svg" width="49%" alt="Sylunae GitHub Stats" />
-<img src="./assets/activity-placeholder.svg" width="49%" alt="Sylunae Activity" />
+[![Website](https://img.shields.io/badge/Website-Sylunae-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](你的个人网站)
+
+[![Blog](https://img.shields.io/badge/Blog-Sylunae_Journal-111111?style=for-the-badge&logo=astro&logoColor=white)](你的博客)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-111111?style=for-the-badge&logo=vercel&logoColor=white)](你的Portfolio)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](你的YouTube)
 
 </div>
 
 ---
 
-## ✦ 创作档案
-
 <div align="center">
 
-<img src="./assets/archive-banner.png" width="100%" alt="Sylunae Archive" />
+![Profile Views](https://visitcount.itsvg.in/api?id=pandorava7&icon=0&color=0)
 
-</div>
-
-<br />
-
-除了正在维护的项目，我也喜欢保存过去做过的东西。
-
-它们可能不成熟，甚至已经显得有些稚嫩，
-但我并不想把这些痕迹全部隐藏起来。
-
-因为一个人的作品，本来就是不断变化的时间切片。
-
-游戏 Demo、旧网站、实验项目、视频、设计、脚本、奇怪的小工具……
-
-它们共同组成了属于我的：
-
-### **Sylunae Archive**
-
----
-
-## ✦ 现在正在做什么
-
-```text
-> 构建自己的独立产品
-> 持续完善 Tierworld
-> 学习并实践更完整的软件工程能力
-> 制作自己的游戏
-> 建立个人作品与创作体系
-> 尝试让开发能力真正产生收入
-> 一点一点，把想做的事情变成现实
-```
-
----
-
-## ✦ 关于「Sylunae」
-
-**丝月 / Sylunae**
-
-对我而言，它并不只是一个用户名。
-
-它更像是我在网络世界里的另一个名字，
-也是我希望长期使用下去的创作者身份。
-
-开发、游戏、设计、内容、作品、世界观……
-
-这些看似不同的东西，最终都会慢慢汇聚到这个名字下面。
-
-<div align="center">
-
-<br />
-
-### 愿热情永存
-
-### 愿热爱不灭
-
-### 愿生活无憾
-
-<br />
-
-*即使无人注视，也依然沿着自己喜欢的方向生长。*
-
-<br />
-
-<img src="./assets/footer.png" width="100%" alt="Sylunae Footer" />
+**把喜欢的事，做成真实存在的世界。**
 
 </div>
