@@ -200,7 +200,8 @@
 
 <div align="center">
 
-![](https://count.getloli.com/get/@pandorava7)
+[![](https://count.getloli.com/get/@pandorava7)
+](https://count.getloli.com/@pandorava7?name=pandorava7&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 **把有意思的想法变成现实**
 
