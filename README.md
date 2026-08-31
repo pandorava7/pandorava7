@@ -140,7 +140,7 @@
 
 <td width="50%" valign="top">
 
-<a href="你的项目页或仓库链接">
+<a href="https://sylunae.vercel.app/portfolio/projects/dreamcho">
   <img src="./assets/projects/dreamcho-banner-v2.png" width="100%" alt="DreamCho Banner" />
 </a>
 
