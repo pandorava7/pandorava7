@@ -80,7 +80,7 @@
 
 ## ✦ Tech Stack
 
-<img src="./pandora-edited.png" align="right" width="200" alt="Pandora Illustration">
+<!-- <img src="./pandora-edited.png" align="right" width="200" alt="Pandora Illustration"> -->
 
 ### ◇ Languages
 
